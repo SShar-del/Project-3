@@ -1,0 +1,7 @@
+{
+    "user": "<Your_Username>",
+    "password": "<Your_Pwd>",
+    "host": "localhost",
+    "port": "5432",
+    "database": "pay_gap"
+}
